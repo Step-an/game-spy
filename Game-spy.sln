@@ -4,7 +4,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManagement", "UserManagement\UserManagement.csproj", "{A9B70730-EB6C-4DF6-90FF-F44892297D59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomSevice", "RoomSevice\RoomSevice.csproj", "{1BBC955E-AC7B-4BDB-8E04-F02AAE363C1B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomService", "RoomService\RoomService.csproj", "{1BBC955E-AC7B-4BDB-8E04-F02AAE363C1B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLogic", "GameLogic\GameLogic.csproj", "{4AB9F80D-BB83-4F16-8AEB-B267A4B1DD15}"
 EndProject
