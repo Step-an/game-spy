@@ -8,6 +8,11 @@ namespace GameLogic.Entities
 {
     public class VotingReport
     {
-        Dictionary<UserId, Int32> Votes;
+        public Dictionary<UserId, Int32> Votes { get; set; }
+
+        public VotingReport(Dictionary<UserId, Int32> votes)
+        {
+            Votes = votes;
+        }
     }
 }
